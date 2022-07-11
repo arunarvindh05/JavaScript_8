@@ -1,4 +1,4 @@
-//the given api link in the task is not working
+
 var requests = new XMLHttpRequest()// created XMLhttprequest object
 
 url = 'https://raw.githubusercontent.com/rvsp/restcountries-json-data/master/res-countries.json'
